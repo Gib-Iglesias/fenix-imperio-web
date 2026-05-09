@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "story": "The Vision",
+    "pillars": "The Empire",
+    "collection": "Fragrances",
+    "campaigns": "Media",
+    "contact": "Partner With Us",
+    "cta": "Join the Ecosystem"
+  },
+  "hero": {
+    "preTitle": "A New Era in Niche Perfumery",
+    "title": "Rise With Fenix",
+    "subtitle": "More than fragrances — an empire. We build the relationships, intelligence, experiences, summits, and investments that are reshaping niche perfumery from Latin America to the world.",
+    "cta": "Explore the Platform",
+    "ctaSecondary": "Watch the Vision"
+  },
+  "pillars": {
+    "badge": "The Empire",
+    "title": "Five Pillars of Fenix",
+    "subtitle": "Fenix is building the infrastructure for the next era of niche perfumery — from relationships to capital.",
+    "items": [
+      {
+        "icon": "network",
+        "title": "Fenix Network",
+        "desc": "A living ecosystem of relationships across four layers — Founders, Retail, Culture, and Experience — connecting niche fragrance brands with luxury retailers, influencers, and cultural venues worldwide."
+      },
+      {
+        "icon": "intelligence",
+        "title": "Fenix Intelligence",
+        "desc": "Structured market intelligence that nobody else in niche perfumery is producing. Industry reports, consumer insights, and trend analysis that position Fenix as the global authority."
+      },
+      {
+        "icon": "experience",
+        "title": "Fenix Experiences",
+        "desc": "We don't do events. We create universes. Immersive Scent & Sound Sessions blending fragrance, music, gastronomy, and visual art — quarterly in London, expanding globally."
+      },
+      {
+        "icon": "summit",
+        "title": "Fenix Summit",
+        "desc": "The Davos of niche perfumery. A curated two-day global forum bringing together founders, investors, retailers, and culture — where business meets art meets neuroscience."
+      },
+      {
+        "icon": "capital",
+        "title": "Fenix Capital",
+        "desc": "The natural deal flow of the ecosystem. From advisory and equity partnerships with emerging brands to a full venture studio and investment fund for niche fragrance."
+      }
+    ]
+  },
+  "founder": {
+    "badge": "The Founder",
+    "title": "Marcelo Capote",
+    "intro": "Behind Fenix stands Marcelo Capote — a visionary who understood that the biggest asset in niche perfumery isn't content, it's relationships. He is building the empire that connects Latin American fragrance talent with the world's most discerning markets.",
+    "p1": "Growing up in Brazil, Marcelo was surrounded by the intoxicating aromas of the Atlantic Forest — vanilla orchids, tonka beans drying under the Bahian sun, and the sweet resinous scent of copaíba. While others saw ingredients, he saw an industry waiting to be connected.",
+    "p2": "His path took him from São Paulo to Grasse and then to London, where he realized that niche perfumery lacked what every great industry needs: infrastructure. No structured intelligence. No curated events. No real network connecting founders to retail to culture to capital.",
+    "p3": "That realization became Fenix: not a single brand, but a complete ecosystem — network, intelligence, experiences, summits, and investment — designed to discover, elevate, and scale the next generation of niche fragrance houses.",
+    "p4": "His philosophy is simple: your biggest asset isn't content — it's relationships. Fenix is the bridge between the world's most talented noses and the markets, investors, and cultural moments that will define the future of scent.",
+    "quote": "The phoenix doesn't announce its rebirth. It simply appears.",
+    "quoteName": "— Marcelo Capote, Founder & CEO, Fenix Fragrance Holdings",
+    "stat1Label": "Network Layers", "stat1Value": "4",
+    "stat2Label": "Markets Targeted", "stat2Value": "12",
+    "stat3Label": "Reports Planned", "stat3Value": "5",
+    "stat4Label": "Revenue Target Y3", "stat4Value": "£670K",
+    "journeyTitle": "The Fenix Timeline",
+    "journey": [
+      { "year": "2026 Q1", "title": "Foundation", "desc": "Structure the Fenix Network across 4 layers. First cases active. Website launch." },
+      { "year": "2026 Q2", "title": "First Experiences", "desc": "Launch the first Scent & Sound Session. Publish Report 1: Niche Perfumery in LATAM." },
+      { "year": "2026 Q3", "title": "Culture Layer", "desc": "Second Scent & Sound edition. Report 2 published. 30 active voices in the Culture layer." },
+      { "year": "2026 Q4", "title": "Summit Announced", "desc": "Third experience edition. Announce Fenix Summit 2027. First advisory deals signed." },
+      { "year": "2027", "title": "Scale", "desc": "Fenix Summit pilot — 200 attendees in London. Expand to São Paulo. First equity partnerships." },
+      { "year": "2028", "title": "The Empire", "desc": "Summit at 500 attendees across 3 countries. Capital fund structured. Global intelligence reference." }
+    ]
+  },
+  "products": {
+    "badge": "The Collection",
+    "title": "Fenix Fragrances",
+    "subtitle": "Our flagship collection — each scent tells a chapter of Brazil's sweet aromatic story, crafted for the sophisticated European palate.",
+    "viewDetails": "Discover Notes",
+    "topNotes": "Top Notes", "heartNotes": "Heart Notes", "baseNotes": "Base Notes",
+    "family": "Family", "volume": "Volume", "concentration": "Concentration",
+    "inquire": "Inquire About Wholesale", "close": "Close",
+    "items": [
+      { "name": "Doce Amazônia", "tagline": "The Spirit of the Rainforest", "description": "A lush, intoxicating journey through the Amazon canopy. Sweet vanilla orchid meets tropical fruit and deep woody musks.", "family": "Oriental Sweet", "concentration": "Eau de Parfum", "volume": "50ml / 100ml", "topNotes": "Pink Pepper, Passion Fruit, Bergamot", "heartNotes": "Amazon Vanilla Orchid, Jasmine, Ylang-Ylang", "baseNotes": "Brazilian Rosewood, Amber, White Musk", "color": "#D4703A" },
+      { "name": "Bahia Dourada", "tagline": "Golden Warmth of the Coast", "description": "Sun-kissed tonka bean and salted caramel evoke the golden beaches of Bahia. Warm, addictive, unforgettable.", "family": "Gourmand", "concentration": "Eau de Parfum Intense", "volume": "50ml / 100ml", "topNotes": "Sea Salt, Coconut Milk, Mandarin", "heartNotes": "Tonka Bean, Salted Caramel, Heliotrope", "baseNotes": "Sandalwood, Benzoin, Vanilla Absolute", "color": "#C98A3C" },
+      { "name": "Noite Carioca", "tagline": "Rio After Dark", "description": "The electric sweetness of a Rio night. Dark chocolate and exotic fruits dance with smoky vetiver and precious woods.", "family": "Oriental Woody", "concentration": "Extrait de Parfum", "volume": "30ml / 50ml", "topNotes": "Blood Orange, Black Currant, Saffron", "heartNotes": "Dark Chocolate, Tuberose, Iris", "baseNotes": "Vetiver, Patchouli, Brazilian Copaiba", "color": "#6E4B5E" },
+      { "name": "Flor de Ipê", "tagline": "Brazil's National Bloom", "description": "Delicate yet bold, like the iconic yellow Ipê flower. Sweet honey notes wrapped in soft florals and creamy woods.", "family": "Floral Sweet", "concentration": "Eau de Parfum", "volume": "50ml / 100ml", "topNotes": "Pear, Freesia, Pink Pepper", "heartNotes": "Brazilian Honey, Magnolia, Peony", "baseNotes": "Cedarwood, Cashmeran, Musks", "color": "#6B8C62" }
+    ]
+  },
+  "videos": {
+    "badge": "Fenix Media",
+    "title": "Campaigns, Stories & Events",
+    "subtitle": "From Scent & Sound Sessions to industry insights — follow the Fenix journey, created by Marcelo Capote."
+  },
+  "contact": {
+    "badge": "Join the Empire",
+    "title": "Partner With Fenix",
+    "subtitle": "Whether you're a niche brand founder, luxury retailer, investor, influencer, or cultural venue — there's a layer for you in the Fenix Network.",
+    "nameLabel": "Your Name", "emailLabel": "Email Address", "companyLabel": "Company / Organization",
+    "countryLabel": "Country / Region", "messageLabel": "How would you like to work with Fenix?",
+    "interestLabel": "I'm interested in",
+    "interests": ["Fenix Network — Brand Founders", "Fenix Network — Retail & Distribution", "Fenix Intelligence — Reports", "Fenix Experiences — Scent & Sound", "Fenix Summit — Attendance / Sponsorship", "Fenix Capital — Investment"],
+    "submit": "Send Inquiry",
+    "directTitle": "Direct Contact",
+    "directText": "Reach Marcelo and the Fenix team directly",
+    "phone": "+44 7XXX XXXXXX", "email": "marcelo@fenixfragrance.com", "address": "London, United Kingdom"
+  },
+  "footer": {
+    "tagline": "Your biggest asset isn't content. It's relationships.",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy", "terms": "Terms of Use"
+  }
+}

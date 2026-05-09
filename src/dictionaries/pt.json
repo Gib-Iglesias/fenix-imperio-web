@@ -1,0 +1,68 @@
+{
+  "nav": { "story": "A Visão", "pillars": "O Império", "collection": "Fragrâncias", "campaigns": "Mídia", "contact": "Seja Parceiro", "cta": "Entre no Ecossistema" },
+  "hero": {
+    "preTitle": "Uma Nova Era na Perfumaria de Nicho",
+    "title": "Renasça com a Fenix",
+    "subtitle": "Mais que fragrâncias — um império. Construímos as relações, inteligência, experiências, summits e investimentos que estão remodelando a perfumaria de nicho da América Latina para o mundo.",
+    "cta": "Explorar a Plataforma", "ctaSecondary": "Assista a Visão"
+  },
+  "pillars": {
+    "badge": "O Império", "title": "Cinco Pilares da Fenix",
+    "subtitle": "A Fenix está construindo a infraestrutura para a próxima era da perfumaria de nicho — de relações a capital.",
+    "items": [
+      { "icon": "network", "title": "Fenix Network", "desc": "Um ecossistema vivo de relações em quatro camadas — Founders, Retail, Culture e Experience — conectando marcas de fragrâncias de nicho com varejistas de luxo, influenciadores e espaços culturais." },
+      { "icon": "intelligence", "title": "Fenix Intelligence", "desc": "Inteligência de mercado estruturada que ninguém mais na perfumaria de nicho está produzindo. Relatórios, insights de consumidor e análise de tendências." },
+      { "icon": "experience", "title": "Fenix Experiences", "desc": "Não fazemos eventos. Criamos universos. Scent & Sound Sessions imersivas unindo fragrância, música, gastronomia e arte visual — trimestralmente em Londres." },
+      { "icon": "summit", "title": "Fenix Summit", "desc": "O Davos da perfumaria de nicho. Um fórum global curado de dois dias reunindo founders, investidores, varejistas e cultura." },
+      { "icon": "capital", "title": "Fenix Capital", "desc": "O deal flow natural do ecossistema. De advisory e participações em marcas emergentes até um venture studio e fundo de investimento para perfumaria de nicho." }
+    ]
+  },
+  "founder": {
+    "badge": "O Fundador", "title": "Marcelo Capote",
+    "intro": "Por trás da Fenix está Marcelo Capote — um visionário que entendeu que o maior ativo da perfumaria de nicho não é conteúdo, são relações. Ele está construindo o império que conecta o talento fragranceiro latino-americano com os mercados mais exigentes do mundo.",
+    "p1": "Crescendo no Brasil, Marcelo foi cercado pelos aromas da Mata Atlântica — orquídeas de baunilha, grãos de tonka secando sob o sol baiano e o doce aroma de copaíba. Onde outros viam ingredientes, ele via uma indústria esperando para ser conectada.",
+    "p2": "Seu caminho o levou de São Paulo a Grasse e depois a Londres, onde percebeu que a perfumaria de nicho carecia do que toda grande indústria precisa: infraestrutura. Sem inteligência estruturada. Sem eventos curados. Sem rede real conectando founders a retail a cultura a capital.",
+    "p3": "Essa percepção se tornou Fenix: não uma marca, mas um ecossistema completo — rede, inteligência, experiências, summits e investimento — projetado para descobrir, elevar e escalar a próxima geração de casas de fragrâncias de nicho.",
+    "p4": "Sua filosofia é simples: seu maior ativo não é conteúdo — são relações. Fenix é a ponte entre os narizes mais talentosos do mundo e os mercados, investidores e momentos culturais que definirão o futuro do aroma.",
+    "quote": "A fênix não anuncia que vai renascer. Ela simplesmente aparece.",
+    "quoteName": "— Marcelo Capote, Fundador & CEO, Fenix Fragrance Holdings",
+    "stat1Label": "Camadas da Rede", "stat1Value": "4",
+    "stat2Label": "Mercados Alvo", "stat2Value": "12",
+    "stat3Label": "Relatórios Planejados", "stat3Value": "5",
+    "stat4Label": "Meta Receita Ano 3", "stat4Value": "£670K",
+    "journeyTitle": "A Timeline Fenix",
+    "journey": [
+      { "year": "2026 Q1", "title": "Fundação", "desc": "Estruturar a Fenix Network nas 4 camadas. Primeiros cases ativos. Lançamento do site." },
+      { "year": "2026 Q2", "title": "Primeiras Experiências", "desc": "Primeira Scent & Sound Session. Relatório 1: Perfumaria de Nicho na LATAM." },
+      { "year": "2026 Q3", "title": "Camada Culture", "desc": "Segunda edição Scent & Sound. Relatório 2. 30 vozes ativas na camada Culture." },
+      { "year": "2026 Q4", "title": "Summit Anunciado", "desc": "Terceira edição. Anunciar Fenix Summit 2027. Primeiros deals de advisory." },
+      { "year": "2027", "title": "Escala", "desc": "Summit piloto — 200 participantes em Londres. Expansão para São Paulo. Primeiras participações." },
+      { "year": "2028", "title": "O Império", "desc": "Summit 500 pessoas em 3 países. Fundo de capital estruturado. Referência global em inteligência." }
+    ]
+  },
+  "products": {
+    "badge": "A Coleção", "title": "Fragrâncias Fenix",
+    "subtitle": "Nossa coleção flagship — cada aroma conta um capítulo da história aromática doce do Brasil.",
+    "viewDetails": "Descobrir Notas", "topNotes": "Notas de Topo", "heartNotes": "Notas de Coração", "baseNotes": "Notas de Fundo",
+    "family": "Família", "volume": "Volume", "concentration": "Concentração", "inquire": "Consultar Atacado", "close": "Fechar",
+    "items": [
+      { "name": "Doce Amazônia", "tagline": "O Espírito da Floresta", "description": "Uma jornada pelo dossel amazônico. Orquídea de baunilha encontra frutas tropicais e almíscares amadeirados.", "family": "Oriental Doce", "concentration": "Eau de Parfum", "volume": "50ml / 100ml", "topNotes": "Pimenta Rosa, Maracujá, Bergamota", "heartNotes": "Orquídea de Baunilha, Jasmim, Ylang-Ylang", "baseNotes": "Pau-Rosa, Âmbar, Almíscar Branco", "color": "#D4703A" },
+      { "name": "Bahia Dourada", "tagline": "Calor Dourado da Costa", "description": "Tonka beijada pelo sol e caramelo salgado. Quente, viciante, inesquecível.", "family": "Gourmand", "concentration": "Eau de Parfum Intense", "volume": "50ml / 100ml", "topNotes": "Sal Marinho, Leite de Coco, Tangerina", "heartNotes": "Fava Tonka, Caramelo Salgado, Heliotrópio", "baseNotes": "Sândalo, Benjoim, Baunilha Absoluta", "color": "#C98A3C" },
+      { "name": "Noite Carioca", "tagline": "Rio Depois do Anoitecer", "description": "A doçura elétrica de uma noite no Rio.", "family": "Oriental Amadeirado", "concentration": "Extrait de Parfum", "volume": "30ml / 50ml", "topNotes": "Laranja Sanguínea, Groselha Negra, Açafrão", "heartNotes": "Chocolate Amargo, Tuberosa, Íris", "baseNotes": "Vetiver, Patchouli, Copaíba", "color": "#6E4B5E" },
+      { "name": "Flor de Ipê", "tagline": "A Flor Nacional", "description": "Delicada mas ousada. Notas de mel envolvidas em florais suaves.", "family": "Floral Doce", "concentration": "Eau de Parfum", "volume": "50ml / 100ml", "topNotes": "Pera, Frésia, Pimenta Rosa", "heartNotes": "Mel Brasileiro, Magnólia, Peônia", "baseNotes": "Cedro, Cashmeran, Almíscares", "color": "#6B8C62" }
+    ]
+  },
+  "videos": { "badge": "Mídia Fenix", "title": "Campanhas, Histórias & Eventos", "subtitle": "De Scent & Sound Sessions a insights de mercado — acompanhe a jornada Fenix, criada por Marcelo Capote." },
+  "contact": {
+    "badge": "Entre no Império", "title": "Seja Parceiro Fenix",
+    "subtitle": "Fundador de marca de nicho, varejista de luxo, investidor, influenciador ou espaço cultural — há uma camada para você na Fenix Network.",
+    "nameLabel": "Seu Nome", "emailLabel": "E-mail", "companyLabel": "Empresa / Organização",
+    "countryLabel": "País / Região", "messageLabel": "Como gostaria de trabalhar com a Fenix?",
+    "interestLabel": "Tenho interesse em",
+    "interests": ["Fenix Network — Founders de Marcas", "Fenix Network — Retail & Distribuição", "Fenix Intelligence — Relatórios", "Fenix Experiences — Scent & Sound", "Fenix Summit — Participação / Patrocínio", "Fenix Capital — Investimento"],
+    "submit": "Enviar Consulta",
+    "directTitle": "Contato Direto", "directText": "Fale com Marcelo e a equipe Fenix",
+    "phone": "+44 7XXX XXXXXX", "email": "marcelo@fenixfragrance.com", "address": "Londres, Reino Unido"
+  },
+  "footer": { "tagline": "Seu maior ativo não é conteúdo. São relações.", "rights": "Todos os direitos reservados.", "privacy": "Política de Privacidade", "terms": "Termos de Uso" }
+}
