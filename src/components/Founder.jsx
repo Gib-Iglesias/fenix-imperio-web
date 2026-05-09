@@ -1,7 +1,7 @@
 'use client';
 import { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { Network, Globe, FileText, TrendingUp, Sparkles } from 'lucide-react';
+import { Network, Globe, FileText, TrendingUp } from 'lucide-react';
 
 export default function Founder({ dict }) {
   const ref = useRef(null);
@@ -34,7 +34,7 @@ export default function Founder({ dict }) {
               <div className="absolute inset-4 border border-fenix-sand rounded-sm overflow-hidden">
                 {/* Replace src with Marcelo's actual photo */}
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=800&fit=crop&crop=face&q=80"
+                  src="/images/marcelo-capote.jpeg"
                   alt="Marcelo Capote — Founder & CEO, Fenix Fragrance Holdings"
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="lazy"
