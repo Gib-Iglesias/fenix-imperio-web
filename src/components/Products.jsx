@@ -50,10 +50,10 @@ export default function Products({ dict }) {
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {dict.items.map((p, i) => {
             const productImages = [
-              'https://images.unsplash.com/photo-1541643600914-78b084683601?w=400&h=530&fit=crop&q=80',
-              'https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=400&h=530&fit=crop&q=80',
-              'https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&h=530&fit=crop&q=80',
-              'https://images.unsplash.com/photo-1594035910387-fbd1a485b12e?w=400&h=530&fit=crop&q=80',
+              'https://images.unsplash.com/photo-1613521140785-e85e427f8002?w=400&h=530&fit=crop&q=80',
+              'https://images.unsplash.com/photo-1608721279136-cd41b752fa41?w=400&h=530&fit=crop&q=80',
+              'https://images.unsplash.com/photo-1622618991746-fe6004db3a47?w=400&h=530&fit=crop&q=80',
+              'https://images.unsplash.com/photo-1723391962154-8a2b6299bc09?w=400&h=530&fit=crop&q=80',
             ];
             return (
             <motion.div key={p.name} initial={{ opacity: 0, y: 40 }} animate={inView ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.6, delay: 0.2 + i * 0.12 }} className="product-card group cursor-pointer" onClick={() => setSel(p)}>
